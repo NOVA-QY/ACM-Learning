@@ -8,5 +8,7 @@
 | | | | |
 | 1006 | [Biorhythms(中国剩余定理)](http://poj.org/problem?id=1006) | [C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/POJ/1006.cpp) |  |
 | | | | |
+| 1007 | [DNA Sorting(字符串排序)](http://poj.org/problem?id=1007) | [C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/POJ/1007.cpp) |  |
+| | | | |
 
 
