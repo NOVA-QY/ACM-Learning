@@ -34,7 +34,7 @@ void f(int h){		//确定第i行皇后的位置
 }
 
 int main(){
-	freopen("input_2553_hdu.txt","r",stdin); 
+//	freopen("input_2553_hdu.txt","r",stdin); 
 	for(n=1;n<=10;n++){
 		sum=0;
 		f(1);
