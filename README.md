@@ -14,5 +14,7 @@
 | ID | Problem | C++ | Source |
 |--- | --- | --- | --- |
 | 1 | [N皇后问题(搜索)](http://acm.hdu.edu.cn/showproblem.php?pid=2553) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.cpp) | HDU 2553 |
+|  |  |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98(%E5%9B%9E%E6%BA%AF%E6%B3%95).cpp)(回溯)
+|  |
 
 
