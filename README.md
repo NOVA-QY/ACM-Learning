@@ -16,5 +16,11 @@
 | 1 | [N皇后问题(回溯)](http://acm.hdu.edu.cn/showproblem.php?pid=2553) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.cpp) | HDU 2553 |
 |  |  |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98(%E5%9B%9E%E6%BA%AF%E6%B3%95).cpp)(精简版)|  |
 | 2 | [Red and Black(深搜)](http://acm.hdu.edu.cn/showproblem.php?pid=1312) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/red_and_black.cpp) | HDU 1312 |
+| 3 | [迷宫问题(广搜)](http://poj.org/problem?id=3984) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/%E8%BF%B7%E5%AE%AB%E9%97%AE%E9%A2%98.cpp) | POJ 3984 |
+
+### (二)树  
+| ID | Problem | C++ | Source |
+|--- | --- | --- | --- |
+| 1 | [N皇后问题(回溯)](http://acm.hdu.edu.cn/showproblem.php?pid=2553) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/n%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.cpp) | HDU 2553 |
 
 
