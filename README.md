@@ -22,6 +22,6 @@
 | ID | Problem | C++ | Source |
 |--- | --- | --- | --- |
 | 1 | [Same Tree(判等)](https://leetcode.com/problems/same-tree/description/) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E6%A0%91/Same_tree.cpp) | LeetCode 100 |
-| 2 | [Same Tree(判断对称)](https://leetcode.com/problems/symmetric-tree/description/) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E6%A0%91/Symmetric_Tree.cpp) | LeetCode 101 |
+| 2 | [Symmetric Tree(判断对称)](https://leetcode.com/problems/symmetric-tree/description/) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E6%A0%91/Symmetric_Tree.cpp) | LeetCode 101 |
 
 
