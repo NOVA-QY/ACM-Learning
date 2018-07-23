@@ -21,6 +21,8 @@
 | 5 | [Catch the Cow(BFS)](http://poj.org/problem?id=3278) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/Catch_that_cow.cpp) | POJ 3278 |
 | 6 | [Find a way(BFS)](http://poj.org/problem?id=3279) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/Find_a_way.cpp) | POJ 3279 |
 | 7 | [Fire Net(DFS)](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1002) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/fire_net.cpp) | ZOJ 1002 |
+| 8 | [棋盘问题(DFS)](http://poj.org/problem?id=1321) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/%E6%A3%8B%E7%9B%98%E9%97%AE%E9%A2%98.cpp) | POJ 1321 |
+| 9 | [Oil Deposits(DFS)](http://acm.hdu.edu.cn/showproblem.php?pid=1241) |[C++](https://github.com/NOVA-QY/ACM-Learning/blob/master/%E4%B8%93%E9%A2%98/%E7%AE%80%E5%8D%95%E6%90%9C%E7%B4%A2/Oil%20Deposits.cpp) | HDU 1241 |
 
 
 ### (二)树  
